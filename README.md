@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Kaiqu5 - Kaique Sampaio
-- 👀 I’m interested in learn and evolve more and more!
-- 🌱 I’m currently learning programming, english, software engineering...
-- 💞️ I’m looking to collaborate on with people in general
-- ⚡ Fun fact: mobile.
+👋 Hi, I’m @Kaiqu5 - Kaique Sampaio
+👀 I’m interested in learn and evolve more and more!
+🌱 I’m currently learning programming, english, software engineering...
+💞️ I’m looking to collaborate on with people in general
   
   <img src="https://img.shields.io/badge/JavaScript-239120?STYLW=for-the-badge&logo=javascript&logoColor-white">
 
