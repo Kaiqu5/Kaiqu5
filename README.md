@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning programming, english and software engineering
 - 💞️ I’m looking to collaborate on with people in general
 - ⚡ Fun fact: mobile.
-
-- #language
   
+  <img src="https://img.shields.io/badge/JavaScript-239120?STYLW=for-the-badge&logo=javascript&logoColor-white">
 
 <!---
 Kaiqu5/Kaiqu5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
